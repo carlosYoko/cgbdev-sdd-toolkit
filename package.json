@@ -2,5 +2,10 @@
   "name": "cgbdev-sdd-toolkit",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlosYoko/cgbdev-sdd-toolkit.git"
+  },
   "description": "Configuración compartida de SDD, independiente de Pi normal"
 }

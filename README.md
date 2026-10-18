@@ -18,3 +18,9 @@ La configuración de Pi normal vive en cgbdev-pi-toolkit.
 Los parches que existen actualmente en la instalación local de SDD NO están exportados aquí.
 No copiar auth.json ni el directorio ~/.sdd completo a Git.
 Las skills corporativas permanecen fuera de este repositorio.
+
+## Licencia
+
+[MIT](LICENSE). Copyright (c) 2026 Carlos Gimenez.
+La licencia cubre los archivos propios del repositorio; los componentes de terceros conservan sus licencias.
+`private: true` en package.json evita publicar por accidente en npm; no determina la visibilidad en GitHub.
