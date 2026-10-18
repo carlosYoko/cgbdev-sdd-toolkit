@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "model": {
+    "provider": "openai-codex",
+    "id": "gpt-6.1-sol"
+  },
+  "levels": {
+    "light": "low",
+    "standard": "medium",
+    "heavy": "high"
+  },
+  "maxParallelBatch": 2,
+  "maxChainSteps": 3,
+  "maxActiveCalls": 1,
+  "maxAttemptsPerTask": 3,
+  "historyLimit": 200,
+  "routeBuiltinAgents": true,
+  "allowProjectAgents": false,
+  "audit": true
+}

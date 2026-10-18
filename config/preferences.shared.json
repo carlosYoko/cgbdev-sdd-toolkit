@@ -1,0 +1,10 @@
+{
+  "token_profile": "quality",
+  "context_selection": "smart",
+  "phases": {
+    "skip_research": false,
+    "skip_reassess": false,
+    "skip_slice_research": false,
+    "reassess_after_slice": true
+  }
+}

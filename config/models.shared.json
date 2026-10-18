@@ -1,0 +1,21 @@
+{
+  "providers": {
+    "openai-codex": {
+      "baseUrl": "https://chatgpt.com/backend-api",
+      "api": "openai-codex-responses",
+      "apiKey": "oauth-managed",
+      "models": [
+        {
+          "id": "gpt-6.1-sol",
+          "name": "GPT-6.1-Sol",
+          "reasoning": true,
+          "input": [
+            "text"
+          ],
+          "contextWindow": 128000,
+          "maxTokens": 16384
+        }
+      ]
+    }
+  }
+}
