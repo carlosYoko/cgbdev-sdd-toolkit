@@ -1,0 +1,6 @@
+{
+  "name": "cgbdev-sdd-toolkit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Configuración compartida de SDD, independiente de Pi normal"
+}
